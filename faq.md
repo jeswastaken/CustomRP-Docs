@@ -1,12 +1,12 @@
 ---
-description: Frequently asked questions
+description: Vanliga frågor
 ---
 
 # ❓ FAQ
 
-## Questions
+## Frågor
 
-### Can I add more than 2 buttons?
+### Kan jag lägga till mer än 2 knappar
 
 No, it's a limitation of Discord.
 
@@ -26,9 +26,9 @@ The app is built using a Windows-only library, therefore supporting Linux and Ma
 
 It opened up because you pressed Ctrl+Shift and clicked Connect button (or Ctrl and Connect button or Reconnect in tray icon menu on older versions). Leave it at -1 and close it. It's used for situations when you have more than one Discord client running at the same time. Changing pipe number effectively chooses which client you want your presence to be in.
 
-## Troubleshooting
+## Felsökning
 
-Before trying anything, make sure you are on the latest version of CustomRP!
+Före du försköker någonting, se till att du är på senaste verisionen av CustomRP
 
 ### When I click on presence buttons in my profile, they don't work.
 

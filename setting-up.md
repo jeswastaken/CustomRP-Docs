@@ -12,8 +12,8 @@ Before setting up, make sure you have enabled activity status in Discord setting
 
 ## Setup process
 
-* Go to https://discord.com/developers/applications/.
-* Click **New Application** in the upper right corner.
+* Gå till https://discord.com/developers/applications/.
+* Klicka på **New Application(** i det uppre högra hörnet.
 
 ![image](https://user-images.githubusercontent.com/2225711/161050202-c796103d-6712-401e-be96-3f3712512375.png)
 
