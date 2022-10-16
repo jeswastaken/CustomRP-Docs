@@ -18,7 +18,7 @@ No, it's also a Discord limitation.
 
 You guessed it, it's also a Discord limitation.
 
-### Will there be Linux/Mac version?
+### Kommer det komma en Linux/Mac verision?
 
 The app is built using a Windows-only library, therefore supporting Linux and Mac would mean rewriting whole app in a different library/coding language which I'm not planning just yet.
 
@@ -28,7 +28,7 @@ It opened up because you pressed Ctrl+Shift and clicked Connect button (or Ctrl 
 
 ## Felsökning
 
-Före du försköker någonting, se till att du är på senaste verisionen av CustomRP
+Före du försöker någonting, se till att du är på senaste verisionen av CustomRP
 
 ### When I click on presence buttons in my profile, they don't work.
 
